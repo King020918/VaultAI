@@ -1,2 +1,8 @@
 streamlit
-pandas
+yfinance
+ta
+scikit-learn
+matplotlib
+alpaca-trade-api
+python-dotenv
+playsound
